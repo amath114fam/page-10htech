@@ -1,0 +1,28 @@
+.container-fluid{
+    background-color: #09b0bf;
+}
+#ul{
+    margin-left: 40%;
+}
+#container{
+    background-color: black;
+}
+.foot .ul li{
+    list-style: none;
+    padding: 10px;
+}
+.foot{
+    justify-content: space-between;
+    align-items: center;
+}
+#input{
+    color: white;
+    background: #0d6efd;
+    border: none;
+}
+#li{
+    color: green;
+}
+.form{
+    margin-right: 10px;
+}
